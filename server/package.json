@@ -18,6 +18,9 @@
     "apollo-server-express": "^3.6.1",
     "express": "^4.17.2",
     "graphql": "^16.2.0",
+    "@reduxjs/toolkit": "^1.8.3",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0",
     "mongoose": "^6.1.6"
   },
   "devDependencies": {
